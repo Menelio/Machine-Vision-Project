@@ -4,3 +4,5 @@ This project was written in python and utilizes the keras and Tensorflow module 
 ### Results of project
 The following are randomly selected predictions from our projects.
 ![alt text](https://github.com/Menelio/Machine-Vision-Project/blob/master/Results/MachineVisionResults.png)
+![alt text](https://github.com/Menelio/Machine-Vision-Project/blob/master/Results/MachineVisionResults2.png)
+![alt text](https://github.com/Menelio/Machine-Vision-Project/blob/master/Results/MachineVisionResults3.png)
